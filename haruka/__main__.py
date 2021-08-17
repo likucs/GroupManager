@@ -37,7 +37,7 @@ Deploy a bot like me [now](www.github.com/xditya/GroupManager)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
- Add me to a group by clicking [here](http://t.me/?startgroup=true).
+ Add me to a group by clicking [here](http://t.me/Group_ManagerOpBot?startgroup=true).
 """
 
 
